@@ -10,7 +10,7 @@ class ItemController extends Controller
     /**
      * Display a listing of the resource.
      *
-     * Fungsi ini digunakan untuk menampilkan daftar semua item yang ada di dalam database.
+     * Fungsi ini digunakan untuk menampilkan daftar s?'lkp[-orewq  emua item yang ada di dalam database.
      * Mengambil semua item dari model `Item` dan mengirimkannya ke view `items.index` untuk ditampilkan.
      */
     public function index(){
